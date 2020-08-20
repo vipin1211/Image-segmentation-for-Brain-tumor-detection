@@ -1,4 +1,4 @@
-# ResUNet architecture for tumor prediction and detection
+# ResUNet for tumor prediction and detection
 
 This dataset contains brain MR images together with manual FLAIR abnormality segmentation masks.
 The images were obtained from The Cancer Imaging Archive (TCIA).
