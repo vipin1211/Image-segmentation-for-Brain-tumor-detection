@@ -24,3 +24,7 @@ Corresponding masks have a `_mask` suffix.
 Focal Tversky loss function with improved Attention U-Net for lesion segmentation has been used for pixel level classification.
 
 State of the art results have been obtained by the use of the transfer learning
+
+Download datasets for this project [here](https://drive.google.com/file/d/1-BmD81m2VNrVivqHsj5J--eXcmeP1nPm/view?usp=sharing) and [here](https://drive.google.com/file/d/1renmO-nK6BUFbWIFqFvEmoICxOTcE-X9/view?usp=sharing)
+
+The project uses a custom library that needs to be placed in the same working directory of the .ipynb file, it can be found [here](https://drive.google.com/file/d/1OnKpwgV5Dmp4EwaUSEgAP6cGBZADT4yc/view?usp=sharing)
