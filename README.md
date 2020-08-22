@@ -22,3 +22,5 @@ Each folder contains MR images with the following naming convention:
 Corresponding masks have a `_mask` suffix.
 
 Focal Tversky loss function with improved Attention U-Net for lesion segmentation has been used for pixel level classification.
+
+State of the art results have been obtained by the use of the transfer learning
